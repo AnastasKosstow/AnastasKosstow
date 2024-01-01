@@ -1,4 +1,6 @@
-- 📫 How to reach me **anastas.kosstow@gmail.com**
+- 📫 How to reach me: **anastas.kosstow@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastas-kostov-b3287b215/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
